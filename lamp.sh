@@ -11,8 +11,7 @@
 #
 # System Required:  CentOS 6+ / Debian 8+ / Ubuntu 14+
 # Description:  Install LAMP(Linux + Apache + MySQL/MariaDB + PHP )
-# Website:  https://lamp.sh
-# Github:   https://github.com/teddysun/lamp
+# Github:   https://github.com/joshking1/LAMP_Script_DataBack.git
 
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
