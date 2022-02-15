@@ -9,8 +9,7 @@
 # Just need to input numbers to choose what you want to install before installation.
 # And all things will be done in a few minutes.
 #
-# Website:  https://lamp.sh
-# Github:   https://github.com/teddysun/lamp
+# Github:   https://github.com/joshking1/LAMP_Script_DataBack.git
 
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
