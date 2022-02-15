@@ -10,10 +10,8 @@
 # And all things will be done in a few minutes.
 #
 # Description:      Auto backup shell script
-# Description URL:  https://teddysun.com/469.html
 #
-# Website:  https://lamp.sh
-# Github:   https://github.com/teddysun/lamp
+# Github:   https://github.com/joshking1/LAMP_Script_DataBack.git
 #
 # You must to modify the config before run it!!!
 # Backup MySQL/MariaDB datebases, files and directories
